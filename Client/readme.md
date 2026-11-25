@@ -1,1 +1,1 @@
-Directorio cliente
+Directorio del cliente

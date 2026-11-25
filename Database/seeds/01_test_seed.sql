@@ -18,4 +18,8 @@ VALUES (
     NOW() + INTERVAL '24 hours'
 );
 
+<<<<<<< HEAD
 COMMIT; -- Consolida físicamente en disco
+=======
+COMMIT; -- Consolida físicamente en disco
+>>>>>>> bd290d2 (fix(db): migrar tokens a sha-256 y endurecer esquema de usuarios)

@@ -1,1 +1,1 @@
-Directorio proyecto ADSO
+Mi-Proyecto-Adso

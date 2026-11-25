@@ -1,1 +1,1 @@
-Directorio seeds
+Directorio de database
